@@ -1,0 +1,5 @@
+
+*.R
+.Rhistory
+.ipynb_checkpoints/Test-v-0.0.3-checkpoint.ipynb
+.ipynb_checkpoints/Test-v-0.0.2-checkpoint.ipynb
